@@ -132,7 +132,7 @@ export default function Page() {
           />
         </div>
         <p className="text-sm text-dark text-center mt-12">
-          Don't have an account?{" "}
+          Don&#39;t have an account?{" "}
           <Link href="/signup" className="font-bold">
             Signup
           </Link>

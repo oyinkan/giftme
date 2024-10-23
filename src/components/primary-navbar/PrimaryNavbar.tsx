@@ -52,7 +52,7 @@ export default function PrimaryNavbar() {
           />
           <p className="ml-3">
             Welcome <br />{" "}
-            <Link href="/">
+            <Link href="/login">
               <b>Sign In / Log In</b>
             </Link>
           </p>

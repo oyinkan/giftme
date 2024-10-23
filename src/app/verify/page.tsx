@@ -113,7 +113,7 @@ export default function Page() {
           <p className="text-sm text-red-500 text-center">{formError}</p>
         )}
         <p className="text-sm text-dark text-center mt-12">
-          Didn't get OTP?{" "}
+          Didn&#39;t get OTP?{" "}
           <button className="font-bold">Resend in {formatTimer(timer)}</button>
         </p>
         <Button
